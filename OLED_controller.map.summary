@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu Oct  5 13:44:46 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : OLED_controller
+Top-level Entity Name : OLED_controller
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 8793
+Total pins : 8
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 3
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

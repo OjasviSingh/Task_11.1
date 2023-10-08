@@ -1,0 +1,277 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'OLED_driver:OLEDDriver|driver_clock'
+Slack : -19.685
+TNS   : -129962.872
+
+Type  : Slow 1100mV 85C Model Setup 'controller_clock'
+Slack : -14.857
+TNS   : -722.882
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -8.140
+TNS   : -1595.127
+
+Type  : Slow 1100mV 85C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : -7.750
+TNS   : -61.669
+
+Type  : Slow 1100mV 85C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -2.833
+TNS   : -10.826
+
+Type  : Slow 1100mV 85C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -2.378
+TNS   : -8.807
+
+Type  : Slow 1100mV 85C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'controller_clock'
+Slack : 0.284
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'OLED_driver:OLEDDriver|driver_clock'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -2.903
+TNS   : -25.635
+
+Type  : Slow 1100mV 85C Model Removal 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : 0.647
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'controller_clock'
+Slack : -2.225
+TNS   : -72.324
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -0.535
+TNS   : -8.286
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|driver_clock'
+Slack : -0.394
+TNS   : -4908.703
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.394
+TNS   : -327.169
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.388
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'OLED_driver:OLEDDriver|driver_clock'
+Slack : -19.959
+TNS   : -125255.471
+
+Type  : Slow 1100mV 0C Model Setup 'controller_clock'
+Slack : -14.977
+TNS   : -715.772
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -8.018
+TNS   : -1572.769
+
+Type  : Slow 1100mV 0C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : -7.632
+TNS   : -58.561
+
+Type  : Slow 1100mV 0C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -2.945
+TNS   : -11.228
+
+Type  : Slow 1100mV 0C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -2.074
+TNS   : -7.416
+
+Type  : Slow 1100mV 0C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'controller_clock'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.281
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'OLED_driver:OLEDDriver|driver_clock'
+Slack : 0.380
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -2.989
+TNS   : -26.332
+
+Type  : Slow 1100mV 0C Model Removal 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : 0.807
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'controller_clock'
+Slack : -2.225
+TNS   : -72.556
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -0.555
+TNS   : -8.461
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|driver_clock'
+Slack : -0.394
+TNS   : -4406.548
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.394
+TNS   : -293.108
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'OLED_driver:OLEDDriver|driver_clock'
+Slack : -11.406
+TNS   : -82401.709
+
+Type  : Fast 1100mV 85C Model Setup 'controller_clock'
+Slack : -8.627
+TNS   : -433.578
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.862
+TNS   : -710.356
+
+Type  : Fast 1100mV 85C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : -4.455
+TNS   : -34.602
+
+Type  : Fast 1100mV 85C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -2.026
+TNS   : -7.195
+
+Type  : Fast 1100mV 85C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -1.592
+TNS   : -5.214
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'controller_clock'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.113
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'OLED_driver:OLEDDriver|driver_clock'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -1.461
+TNS   : -12.803
+
+Type  : Fast 1100mV 85C Model Removal 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : 0.411
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'controller_clock'
+Slack : -1.702
+TNS   : -34.742
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.370
+TNS   : -158.550
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -0.282
+TNS   : -2.498
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|driver_clock'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'OLED_driver:OLEDDriver|driver_clock'
+Slack : -10.298
+TNS   : -74601.077
+
+Type  : Fast 1100mV 0C Model Setup 'controller_clock'
+Slack : -8.292
+TNS   : -413.267
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -4.496
+TNS   : -604.074
+
+Type  : Fast 1100mV 0C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : -4.174
+TNS   : -30.072
+
+Type  : Fast 1100mV 0C Model Setup 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -1.871
+TNS   : -6.638
+
+Type  : Fast 1100mV 0C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -1.344
+TNS   : -4.070
+
+Type  : Fast 1100mV 0C Model Hold 'OLED_driver:OLEDDriver|driver_clock'
+Slack : -0.068
+TNS   : -0.068
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'controller_clock'
+Slack : 0.087
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.111
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -1.516
+TNS   : -13.343
+
+Type  : Fast 1100mV 0C Model Removal 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : 0.514
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'controller_clock'
+Slack : -1.702
+TNS   : -32.598
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.383
+TNS   : -149.460
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|clk_status'
+Slack : -0.238
+TNS   : -2.109
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|driver_clock'
+Slack : 0.058
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'OLED_driver:OLEDDriver|i2c_driver:i2c|current_state[0]'
+Slack : 0.386
+TNS   : 0.000
+
+------------------------------------------------------------
